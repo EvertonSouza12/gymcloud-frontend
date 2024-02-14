@@ -1,6 +1,9 @@
+<script setup>
+import navbar from './components/navbar.vue';
+</script>
 
-
-
-
-
-<template></template>
+<template>
+    <div>
+        <navbar />
+    </div>
+</template>
